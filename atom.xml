@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-12-24T12:02:45.682Z</updated>
+  <updated>2021-12-24T13:00:19.961Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>my-first-blog</title>
+    <link href="http://example.com/2021/12/24/my-first-blog/"/>
+    <id>http://example.com/2021/12/24/my-first-blog/</id>
+    <published>2021-12-24T12:50:55.000Z</published>
+    <updated>2021-12-24T13:00:19.961Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="测试内容"><a href="#测试内容" class="headerlink" title="测试内容"></a>测试内容</h1><p>当然你也可以不用命令来创建新的博客文件，只需在 <code>/source/_posts</code> 文件夹内新建 <code>md</code> 格式的文件进行写博客即可。但是一定要注意，必须要包含 <code>---</code> 内的信息！也就是说必须要有 <code>Front-matter</code> ！</p><p>每次写完博客都要使用 Hexo 的相关命令 来生成相关的博客页面，并且部署到 GitHub 上面。</p><p>写博客的工具？</p><p>因为 Hexo 的博客都是用 <code>md</code> 格式文件来写的，<code>md</code> 格式是 Markdown 文件的格式，所以只要使用规范的 Markdown 语法进行书写即可。</p><p>当然也是有好的 Markdown 编辑器的，在这里我推荐 <a href="https://github.com/marktext/marktext">Mark Text</a> ，一个跨平台的 Markdown 编辑器，开源免费，而且实时渲染的特性使得即使不会 Markdown 语法也能进行优美的 Markdown 写作。我的所有的 Markdown 文件都是用它来书写的。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;测试内容&quot;&gt;&lt;a href=&quot;#测试内容&quot; class=&quot;headerlink&quot; title=&quot;测试内容&quot;&gt;&lt;/a&gt;测试内容&lt;/h1&gt;&lt;p&gt;当然你也可以不用命令来创建新的博客文件，只需在 &lt;code&gt;/source/_posts&lt;/code&gt; 文件夹内新建 &lt;co</summary>
+      
+    
+    
+    
+    
+    <category term="first" scheme="http://example.com/tags/first/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
